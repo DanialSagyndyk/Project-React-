@@ -2,7 +2,7 @@
 
 A React single-page application for browsing, searching and adding hiking trails in the mountains and canyons around Almaty (Medeu, Shymbulak, Big Almaty Lake, Kolsai, Charyn and more).
 
-**Live demo:** _add your deployed link here_
+**Live demo:** https://project-react-xi-lime.vercel.app/
 
 ## Features
 
@@ -86,4 +86,4 @@ Deployed on Vercel (Framework preset: Vite, build command `npm run build`, outpu
 
 ## Author
 
-Sagyndyk Danial — Kazakh-British Technical University, Information Systems
+Sagyndyk Danial
